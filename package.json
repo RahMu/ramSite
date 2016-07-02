@@ -1,0 +1,18 @@
+{
+  "name": "ramSite",
+  "description": "",
+  "version": "0.0.0",
+  "description": "swag",
+  "main": "ramSite.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "express": ">=4.13.4",
+    "serve-static" : ">=1.10.2"
+  },
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/rahmu/ramsite.git"
+  }
+}
